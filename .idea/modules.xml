@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/publish.iml" filepath="$PROJECT_DIR$/publish.iml" />
+      <module fileurl="file://$PROJECT_DIR$/publish-web/publish-web.iml" filepath="$PROJECT_DIR$/publish-web/publish-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/publist-app/publist-app.iml" filepath="$PROJECT_DIR$/publist-app/publist-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/publist-bus/publist-bus.iml" filepath="$PROJECT_DIR$/publist-bus/publist-bus.iml" />
+    </modules>
+  </component>
+</project>
